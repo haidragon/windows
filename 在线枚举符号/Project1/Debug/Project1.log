@@ -1,0 +1,8 @@
+﻿  test.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\project1\project1\test.cpp(31): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“ULONG64”
+c:\project1\project1\test.cpp(31): warning C4313: “printf”: 格式字符串中的“%p”与“ULONG64”类型的参数 2 冲突
+c:\project1\project1\test.cpp(81): warning C4244: “参数”: 从“DWORD64”转换到“DWORD”，可能丢失数据
+  Project1.vcxproj -> C:\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Project1\Debug\Project1.pdb (Partial PDB)
