@@ -1,0 +1,9 @@
+4308d7 E9 8E 00 00 00
+42FFD7 33 C0 C2 08 00
+537c1c
+Europe->Fiat->500->93C86 加载文件500.bin,
+
+1.  check_sub1_sub2 中this处理  rtnhtis2((int)&v11, *(_DWORD *)(this + 4009920));
+2. *(_BYTE *)(v7 + 0x159E)  (buffer+0x12E)[0]
+3. *(_BYTE *)(v2 + 4009341)  
+4.this传递 check_sub3((void *)v2);

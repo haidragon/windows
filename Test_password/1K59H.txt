@@ -1,0 +1,5 @@
+4308d7 E9 8E 00 00 00
+42FFD7 33 C0 C2 08 00
+
+Keymaker region: Europe
+Europe->Lancia->Lybra->MC68HC08 加载文件 1K59H.bin. 需要自己实现test.exe程序中校验1K59H.bin的方法。 完整校验
